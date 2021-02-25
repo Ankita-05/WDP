@@ -1,0 +1,17 @@
+h1{
+    font-family: Montserrat;
+    text-align: center;
+    background-color:black ;
+    color:red;
+    padding:20px;
+}
+p{
+    font-family: Montserrat;
+}
+ul{
+    list-style:none;
+}
+li{
+    display:inline;
+    margin:100px;
+}
